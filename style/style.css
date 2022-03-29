@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    background-color: #F3F1FF;
+}
+.navbar img{
+    width: 40px;
+    height: 40px;
+}
+.player img{
+    width: 40px;
+    height: 40px;
+}
+main{
+    max-width: 870px;
+    margin-top: 30px;
+}
+
+.blog img{
+    max-width: 180px;
+    height: 100px;
+}
+.review-icon{
+    width: 12px;
+    height: 12px
+}
+.card-img-top{
+    padding: 15px;
+}
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 1px 1px 10px grey;
+    margin-bottom: 30px;
+}
+.card-deck .card {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.seventyparcent-width{
+    width: 60%;
+}
+.rest-width{
+    width: 40%;
+}
+.online-courses-rootcard{
+    padding-bottom: 30px;
+}
+.card-deck .info-card{
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 30px;
+}
